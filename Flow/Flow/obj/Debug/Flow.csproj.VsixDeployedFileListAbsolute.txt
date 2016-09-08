@@ -1,0 +1,4 @@
+C:\Users\Zanderax\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\Flow\1.0\\Flow.dll
+C:\Users\Zanderax\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\Flow\1.0\\Flow.pdb
+C:\Users\Zanderax\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\Flow\1.0\\Flow.pkgdef
+C:\Users\Zanderax\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Company\Flow\1.0\\extension.vsixmanifest
